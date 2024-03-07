@@ -3,6 +3,8 @@
 <h3 align="center">A passionate full-stack developer from Norway</h3>
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWp2aXc1dXJlb3RyZzUyeHhham5scHFnbDJldW11azJ6ZGtqbmc1ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Vf3ZKdillTMOOaOho0/giphy.gif"> 
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=egilhagen&label=Profile%20views&style=flat" alt="egilhagen" /> </p>
+
 - 🔭 I’m currently working on [expanding my portfolio with different projects](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHYzYjFkbDFpbXNndnF2bm1kZjIwYnNybzU0MmdxN2g2MGF5dDQyNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fZDXPWad3Rhx0H0gDp/giphy.gif)
 
 - 🌱 I’m currently learning **A lot of new things around different devops technologies like azure and aws. I'm also working on improving my skills in different programming languages**
@@ -17,7 +19,7 @@
 
 - ⚡ Fun fact: **People used to say "prunes" instead of "cheese" when getting their pictures taken.**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=egilhagen&label=Profile%20views&color=0000FF&style=flat" alt="egilhagen" /> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
