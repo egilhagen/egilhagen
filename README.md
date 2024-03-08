@@ -44,13 +44,13 @@
 <h3 align="left">Trophies and stats:</h3>
 <div align="center">
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=egilhagen&row=1&column=6&&margin-w=5&margin-h=5&no-bg=falsee&no-frame=false&theme=dark_lover)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=egilhagen&row=1&column=6&&margin-w=5&margin-h=5&no-bg=falsee&no-frame=true&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 </div>
 
 
-<p><img align="left" height="200" width="300" src="https://github-readme-stats.vercel.app/api/top-langs?username=egilhagen&show_icons=true&locale=en&layout=compact&theme=calm" alt="egilhagen" /></p>
+<p><img align="left" height="200" width="300" src="https://github-readme-stats.vercel.app/api/top-langs?username=egilhagen&show_icons=true&locale=en&layout=compact&theme=onedark" alt="egilhagen" /></p>
 
-<p>&nbsp;<img align="center" height="200" width="450" src="https://github-readme-stats.vercel.app/api?username=egilhagen&show_icons=true&locale=en&theme=calm" alt="egilhagen" /></p>
+<p>&nbsp;<img align="center" height="200" width="450" src="https://github-readme-stats.vercel.app/api?username=egilhagen&show_icons=true&locale=en&theme=onedark" alt="egilhagen" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=egilhagen&theme=calm" alt="egilhagen" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=egilhagen&theme=onedark" alt="egilhagen" /></p>
 
