@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=egilhagen&label=Profile%20views&style=flat" alt="egilhagen" /> </p>
 
-- 🔭 I’m currently working on [expanding my portfolio with different projects](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHYzYjFkbDFpbXNndnF2bm1kZjIwYnNybzU0MmdxN2g2MGF5dDQyNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fZDXPWad3Rhx0H0gDp/giphy.gif)
+- 🔭 I’m currently working on [expanding my portfolio with different projects](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmFqaXJlNjRqd2RiMTB4cGVucXR0cTJ2dWE4Z25jcHZ3M2gzMTB0aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fZDXPWad3Rhx0H0gDp/giphy.gif)
 
 - 🌱 I’m currently learning **A lot of new things around different devops technologies like azure and aws. I'm also working on improving my skills in different programming languages**
 
